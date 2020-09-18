@@ -1,0 +1,216 @@
+<!DOCTYPE HTML>
+<!--
+	Arcana by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>IT Project</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+					<!-- Logo -->
+						<h1><a href="index.html" id="logo">IT Project</a></h1>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li class="current"><a href="index.html">Home</a></li>
+								<li>
+									<a href="#">IT Technologies</a>
+									<ul>
+										<li><a href="autonomous-vehicles.html">Autonomous Vehicles</a></li>
+										<li><a href="clouds-servers-services.html">Clouds, servers and services</a></li>
+										<li><a href="machine-learning.html">Machine Learning</a></li>
+										<li><a href="natural-language-processing-and-chatterbots.html">Natural Language Processing and Chatterbots</a></li>
+									</ul>
+								</li>
+								<li><a href="left-sidebar.html">Left Sidebar</a></li>
+								<li><a href="right-sidebar.html">Right Sidebar</a></li>
+								<li><a href="two-sidebar.html">Two Sidebar</a></li>
+								<li><a href="no-sidebar.html">No Sidebar</a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+			<!-- Main -->
+				<section class="wrapper style1">
+					<div class="container">
+						<div class="row gtr-200">
+							<div class="col-4 col-12-narrower">
+								<div id="sidebar">
+
+									<!-- Sidebar -->
+
+										<section>
+											<h3>Introduction</h3>
+											<p>	We all do know that to achieve goals there are sweats and tears behind them. 
+												As well as a technology, it needs tools and some technology in order to make it happen.
+												Tools and Technologies are more like the back-end of this Charity App.
+											</p>
+											<footer>
+											</footer>
+										</section>
+
+										<section>
+											<h3>Links to tools</h3>
+											<ul class="links">
+												<li><a href="https://html5up.net/">HTML 5 UP</a></li>
+												<li><a href="https://templated.co/">Templated.co</a></li>
+												<li><a href="https://github.com/">GitHub</a></li>
+												<li><a href="https://bootstrap4.com/">Bootstrap</a></li>
+												<li><a href="https://notepad-plus-plus.org/downloads/">Notepad++</a></li>
+											</ul>
+											<footer>
+												<a href="https://team-indecisive.github.io/The_IT_World/index.html" class="button">Homepage</a>
+											</footer>
+										</section>
+
+								</div>
+							</div>
+							<div class="col-8  col-12-narrower imp-narrower">
+								<div id="content">
+
+									<!-- Content -->
+
+										<article>
+											<header>
+												<h2>Tools and Technologies</h2>
+												<p>Things and Services we use to construct the Website</p>
+											</header>
+
+											<span class="image featured"><img src="images/tools.jpg" alt="" /></span>
+											
+											<h4>Tools:</h4>
+											<p>	
+												<b>1.	GitHub/Visual Studio,</b>
+													We will be using GitHub or Visual Studio as these applications are compatible for team projects and what we are most familiar with.
+													Moreover, these apps provide free local hosting service for working and updating the web while in the developing process. 
+													<br>
+												<b>2.	Text Editor (Notepad ++, Atom.io, etc) </b>
+													This tool is very essential in the making of this project because editor is like the control panel of our website. 
+													The code, page layout and functions are everything set in the text editor. In other words, without this tool we can’t edit the appearance and how our website works.
+													<br>	
+												<b>3.	Open Source Template</b>
+													We are planning to use template for our website instead of creating it from scratch.
+													However, it is way easier to use templates because we already got the design and it is only matter of changing the text inside it. 
+													<b>(html5up.com/templated.co)</b>
+													<br>
+												<b>4.	Bootstrap </b>
+													Bootstrap is to provide functions in our website. 
+													In order to make our website more interactive and arranged this tool is very essential. 
+													By collaborating it with the text editor, we will get maximum function of this tool called Bootstrap.
+													<b>(bootstrap4.com)</b>
+											</p>
+
+											<h4>Technologies:</h4>
+											<p>
+												<b>1.	Website Hosting Service</b>
+													After all is done and we are sure that the website is adequately developed, the next step is to think about using a Web Hosting Service. 
+													A service that allows us to release the website we made to public so that everybody all around the world can see and surf in our web. 
+													There are 3 leading hosting companies which are Blue Host, HostGator and, Hostinger.com. 
+													<br>
+												<b>2.	Clouds (GitHub)</b>
+													The Cloud technology held a huge role in this web making since we are using GitHub for our project. 
+													Pushing and Pulling works to the GitHub repository in GitHub app is one example of the Cloud technology.
+											</p>
+
+										</article>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							<section class="col-3 col-6-narrower col-12-mobilep">
+								<h3>Links to Stuff</h3>
+								<ul class="links">
+									<li><a href="#">Mattis et quis rutrum</a></li>
+									<li><a href="#">Suspendisse amet varius</a></li>
+									<li><a href="#">Sed et dapibus quis</a></li>
+									<li><a href="#">Rutrum accumsan dolor</a></li>
+									<li><a href="#">Mattis rutrum accumsan</a></li>
+									<li><a href="#">Suspendisse varius nibh</a></li>
+									<li><a href="#">Sed et dapibus mattis</a></li>
+								</ul>
+							</section>
+							<section class="col-3 col-6-narrower col-12-mobilep">
+								<h3>More Links to Stuff</h3>
+								<ul class="links">
+									<li><a href="#">Duis neque nisi dapibus</a></li>
+									<li><a href="#">Sed et dapibus quis</a></li>
+									<li><a href="#">Rutrum accumsan sed</a></li>
+									<li><a href="#">Mattis et sed accumsan</a></li>
+									<li><a href="#">Duis neque nisi sed</a></li>
+									<li><a href="#">Sed et dapibus quis</a></li>
+									<li><a href="#">Rutrum amet varius</a></li>
+								</ul>
+							</section>
+							<section class="col-6 col-12-narrower">
+								<h3>Get In Touch</h3>
+								<form>
+									<div class="row gtr-50">
+										<div class="col-6 col-12-mobilep">
+											<input type="text" name="name" id="name" placeholder="Name" />
+										</div>
+										<div class="col-6 col-12-mobilep">
+											<input type="email" name="email" id="email" placeholder="Email" />
+										</div>
+										<div class="col-12">
+											<textarea name="message" id="message" placeholder="Message" rows="5"></textarea>
+										</div>
+										<div class="col-12">
+											<ul class="actions">
+												<li><input type="submit" class="button alt" value="Send Message" /></li>
+											</ul>
+										</div>
+									</div>
+								</form>
+							</section>
+						</div>
+					</div>
+
+					<!-- Icons -->
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							<li><a href="#" class="icon brands fa-google-plus-g"><span class="label">Google+</span></a></li>
+						</ul>
+
+					<!-- Copyright -->
+						<div class="copyright">
+							<ul class="menu">
+								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
