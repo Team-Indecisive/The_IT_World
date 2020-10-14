@@ -31,7 +31,7 @@
 							<!-- Content -->
 								<section>
 									<header class="main">
-										<H1 style="color:#0399D6;">Generic</H1>
+										<H1 style="color:#0399D6;">Payment</H1>
 									</header>
 
 									<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
@@ -43,7 +43,7 @@
 <form action="/action_page.php">
 <input type="radio" id="name" name="donarId" value="name">
   <label for="name">Name</label>
-  <input type="text" id="fname" name="fname" value="">
+  <input type="text" id="fname" name="fname" value=""size="50">
   <p>
       Or
   </p>
@@ -51,7 +51,7 @@
   <label for="anonymous">Anonymous</label><br>
   <br>
   <label for="email">Email:<span class="required">*</span></label><br>
-  <input type="text" id="email" name="email" required>
+  <input type="text" id="email" name="email" size="50" required>
 
   <h3>Payment Information</h3>
   <input type="radio" id="creditCard" name="paymentType" value="creditCard">
@@ -59,15 +59,15 @@
   <img width="30" height="30" src="images/visaLogo.jpg" alt=""><img width="30" height="30" src="images/mLogo.png" alt="">
   <br>
   <label for="nameOnCard">Name On Card</label>
-  <input type="text" id="nameOnCard" name="nameOnCard" value="">
+  <input type="text" id="nameOnCard" name="nameOnCard" value=""size="50">
   <br>
   <label for="cardNumber">Card Number</label>
-  <input type="text" id="cardNumber" name="cardNumber" value="">
+  <input type="text" id="cardNumber" name="cardNumber" value=""maxlength="16" size="16">
   <br>
   <label for="expiry">Expiry:</label>
 <input type="date" id="expiry" name="expiry">
 <label for="ccv">CCV</label>
-  <input type="text" id="ccv" name="ccv" value="">
+  <input type="text" id="ccv" name="ccv" value=""  maxlength="3" size="3">
 <br>
   <input type="radio" id="applePay" name="paymentType" value="applePay">
   <label for="applePay"></label>
@@ -80,7 +80,7 @@
   <input type="radio" id="googlePay" name="paymentType" value="googlePay">
   <label for="googlePay"></label>
   <img width="50" height="30"src="images/gPayLogo.jpg" alt="">
-	 <br>
+	 <br><br>
   <input type="button" value="Donate Now" onclick="msg()">
 								</section>
 
